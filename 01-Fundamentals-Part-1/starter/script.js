@@ -1,4 +1,4 @@
 let js = 'fun';
 if (js === 'fun') {
-  alert('still fun')
+  alert('still fun2')
 }
